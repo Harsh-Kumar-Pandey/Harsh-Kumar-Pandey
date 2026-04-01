@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | System Design Learner</h3>
+<h3 align="center">Full Stack Developer | DSA Enthusiast </h3>
 
 ---
 
