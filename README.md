@@ -81,12 +81,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh12378&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh12378&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Kumar-Pandey&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Kumar-Pandey&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh12378&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Kumar-Pandey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -113,4 +113,4 @@
 
 ---
 
-<p align="center">⭐ From <a href="https://github.com/Harsh-Kumar-Pandey">Harsh Pandey</a></p>
+<p align="center">❤️ From <a href="https://github.com/Harsh-Kumar-Pandey">Harsh Pandey</a></p>
