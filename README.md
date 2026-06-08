@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Full Stack Developer · DSA Enthusiast · Low Level Design</h3>
+<h3 align="center">Full Stack Developer · DSA Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsh12378&label=Profile%20views&color=0e75b6&style=flat" alt="harsh12378" />
@@ -13,7 +13,7 @@
 - ⚙️ Strong in **Java, Problem Solving & Low Level Design**
 - 🌐 Building scalable apps using **MERN Stack + Spring Boot**
 - 📚 Currently deep-diving into **System Design, Redis & Kafka**
-- 🏆 **LeetCode Rating: 1590+** | 400+ Problems Solved
+- 🏆 **LeetCode Rating: 1590+** | 600+ Problems Solved
 
 ---
 
@@ -53,9 +53,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔒 [**API Gateway & Rate Limiter**](https://github.com/harsh12378) | Scalable API Gateway with **Token Bucket rate limiting**, Apache Kafka async logging, Circuit Breakers (Opossum), and a real-time React observability dashboard. Containerized with Docker. | Express.js, React, Redis, Kafka, Docker, JWT |
-| 💬 [**NodeTalk**](https://github.com/harsh12378) | Full-stack real-time chat app with WebSockets. Redis caching cut DB read ops by **40%**, slashing latency from **350ms → 40ms**. Compound indexing & React Query for snappy UX. | Express.js, React, Redis, MongoDB, Socket.io |
-| 🌐 [**VERTEX Club Website**](https://github.com/harsh12378) | College fest registration system scaled to **500+ users** with zero downtime. Features Google reCAPTCHA, admin dashboard with CSV export, and automated email triggers. | Express.js, React, MongoDB |
+| 🔒 [**API Gateway & Rate Limiter**](https://github.com/Harsh-Kumar-Pandey/Distributed-API-Gateway) | Scalable API Gateway with **Token Bucket rate limiting**, Apache Kafka async logging, Circuit Breakers (Opossum), and a real-time React observability dashboard. Containerized with Docker. | Express.js, React, Redis, Kafka, Docker, JWT |
+| 💬 [**NodeTalk**](https://nodetalk-client.vercel.app/) | Full-stack real-time chat app with WebSockets. Redis caching cut DB read ops by **40%**, slashing latency from **350ms → 40ms**. Compound indexing & React Query for snappy UX. | Express.js, React, Redis, MongoDB, Socket.io |
+| 🌐 [**VERTEX Club Website**](https://vertex.dsce.club/) | College fest registration system scaled to **500+ users** with zero downtime. Features Google reCAPTCHA, admin dashboard with CSV export, and automated email triggers. | Express.js, React, MongoDB |
 
 ---
 
