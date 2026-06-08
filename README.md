@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/LeetCode-1590%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Problems_Solved-400%2B-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problems_Solved-600%2B-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 
